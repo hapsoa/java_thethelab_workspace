@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70712cc2-6bf4-4479-a591-d99a36fc558f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="example3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/thethelab/example3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="44" column="61" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONML.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/maven/JSONML.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filter</find>
+      <find>onPress</find>
+      <find>packet</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/io/thethelab/DataFilterOutputStreamNewVer.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/DataFilterInputStreamNewVer.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/StringWriterNewVer.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/StringREaderNewVer.java" />
+        <option value="$PROJECT_DIR$/src/FileCopierVerNIO.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/FileRandomAccess.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/BufferPositionCheck.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Rect.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Processing.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/ex1.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Constants.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Util.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Map.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Block.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Person.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Stack.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Command.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/ColorPoint.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/HashTable.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/SpriteManager.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Window.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Sample.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Application.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Main2.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MyFirstStream.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Write7ToFile.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Read7FromFile.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Write7ToFile2.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Read7FromFile2.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/CurrentThreadName.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MakeThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MakeThreadMultiDemo.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/Runnable.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MakeThreadDemo2.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MutualAccess.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/ExecutorsDemo.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/ExecutorDemo2.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/MutualAccessReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/SyncArrayList.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/ProducerConsumerPattern.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/example1.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/example2.java" />
+        <option value="$PROJECT_DIR$/src/maven/JSONTokener.java" />
+        <option value="$PROJECT_DIR$/src/maven/XML.java" />
+        <option value="$PROJECT_DIR$/src/io/thethelab/example3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="804" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="연습" type="b2602c69:ProjectViewProjectNode" />
+              <item name="연습" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="연습" type="b2602c69:ProjectViewProjectNode" />
+              <item name="연습" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="연습" type="b2602c69:ProjectViewProjectNode" />
+              <item name="연습" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thethelab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="연습" type="b2602c69:ProjectViewProjectNode" />
+              <item name="연습" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jaejong/IdeaProjects/연습/src/io/thethelab/DataFilterINputStream.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/maven" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src/io/thethelab" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.thethelab" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.example3">
+    <configuration name="ProducerConsumerPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.thethelab.ProducerConsumerPattern" />
+      <module name="연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.thethelab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SyncArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.thethelab.SyncArrayList" />
+      <module name="연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.thethelab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.thethelab.example1" />
+      <module name="연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.thethelab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.thethelab.example2" />
+      <module name="연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.thethelab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.thethelab.example3" />
+      <module name="연습" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.thethelab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SyncArrayList" />
+      <item itemvalue="Application.ProducerConsumerPattern" />
+      <item itemvalue="Application.example1" />
+      <item itemvalue="Application.example2" />
+      <item itemvalue="Application.example3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.example3" />
+        <item itemvalue="Application.example2" />
+        <item itemvalue="Application.example1" />
+        <item itemvalue="Application.ProducerConsumerPattern" />
+        <item itemvalue="Application.SyncArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70712cc2-6bf4-4479-a591-d99a36fc558f" name="Default" comment="" />
+      <created>1520571746800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520571746800</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Ex1_foo - 2018.03.19 at 17h 23m 52s.xml">
+      <configuration name="Ex1.foo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ex1_foo - 2018.03.19 at 17h 25m 44s.xml">
+      <configuration name="Ex1.foo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ex1_foo2 - 2018.03.19 at 17h 25m 26s.xml">
+      <configuration name="Ex1.foo2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36849314" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19305556" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891452" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32739726" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/example3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maven/JSONML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MainTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Command.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/ColorPoint.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/PhoneNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/HashTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/SpriteManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Main.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Class.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Button.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MyFirstStream.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Write7ToFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Read7FromFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Write7ToFile2.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/Read7FromFile2.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/CurrentThreadName.java" />
+    <entry file="file://$PROJECT_DIR$/data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MakeThreadDemo.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Throwable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/StackTraceElement.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Exception.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/InterruptedException.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MakeThreadMultiDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MakeThreadDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MutualAccess.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/ExecutorsDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/ExecutorDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/CallableDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/MutualAccessReentrantLock.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/SyncArrayList.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/ProducerConsumerPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/example1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/example2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/maven/JSONML.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/thethelab/example3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="44" column="61" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

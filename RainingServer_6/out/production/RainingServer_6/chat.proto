@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package protobuf;
+
+message Word {
+    required string type = 1;
+    required string word = 2;
+}

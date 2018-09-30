@@ -1,0 +1,52 @@
+[
+  {
+    "Type": "CheckBox",
+    "x": 50,
+    "y": 100,
+    "color": {
+      "r": 100,
+      "g": 100,
+      "b": 100
+    },
+    "text": "안녕한가요",
+    "checked": false
+  },
+
+  {
+    "Type": "CheckBox",
+    "x": 50,
+    "y": 150,
+    "color": {
+      "r": 100,
+      "g": 100,
+      "b": 100
+    },
+    "text": "건강한가요",
+    "checked": false
+  },
+
+  {
+    "Type": "RadioGroup",
+    "childs" : [
+      {
+        "Type" : "RadioButton";
+        "x": 300,
+        "y": 100,
+        "text": "A반",
+      },
+      {
+        "x": 400,
+        "y": 100,
+        "text": "B반",
+      }
+    ],
+
+    "color": {
+      "r": 100,
+      "g": 100,
+      "b": 100
+    },
+
+    "checked": false
+  }
+]

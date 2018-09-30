@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpriteManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SpriteManager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

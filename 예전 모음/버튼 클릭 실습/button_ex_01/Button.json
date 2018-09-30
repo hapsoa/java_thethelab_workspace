@@ -1,0 +1,32 @@
+
+
+{
+	"Button_One": {
+		"name" : "Button_ONE",
+		"posX" : 100,
+		"posY" : 100,
+		"width": 30,
+		"height": 50,
+		"color": [255, 0, 0],
+		"text": "Button One!"
+	},
+	"Button_Two": {
+		"name" : "Button_Two",
+		"posX" : 200,
+		"posY" : 200,
+		"width": 60,
+		"height": 60,
+		"color": [0, 255, 0],
+		"text": "Button Two!"
+	},
+	"Button_Three": {
+		"name" : "Button_Three",
+		"posX" : 300,
+		"posY" : 300,
+		"width": 50,
+		"height": 30,
+		"color": [0, 0, 255],
+		"text": "Button Three!"
+	}
+
+}

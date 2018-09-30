@@ -1,0 +1,10 @@
+// $ protoc chat.proto --java_out=.
+syntax = "proto2";
+
+package ex1.protobuf;
+
+message User {
+    required string name = 1;
+    required int32 age = 2;
+    required string address = 3;
+}

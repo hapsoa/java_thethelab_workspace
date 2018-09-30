@@ -1,0 +1,125 @@
+SIZE (960 , 640)
+
+CLIENT -> SERVER
+
+CONNECT
+length + {
+	type : "connect",
+	state : {
+		name : String,
+		character : int,
+		position: { 
+			x : float,
+			y : float
+		}
+	}
+}
+
+DISCONNECT
+length + {
+	type : "disconnect",
+	state : {
+		name : String
+	}
+}
+
+MOVE
+length + {
+	type : "move",
+	state : {
+		name : String,
+		character : int,
+		direction : int,
+		position: { 
+			x : float,
+			y : float
+		}
+	}
+}
+
+
+
+-----------------
+
+
+Character = 10, 20, 30 ,40
+direction up = 1
+direction down = 2
+direction left = 3
+direction right = 4
+
+connect = 1
+reject = 2
+disconnect = 3
+move = 4
+
+SpriteManager.get(character + direction)
+
+
+
+SERVER -> CLIENT
+
+byte = 2
+
+CONNECT(BROADCAST)
+length + {
+	type : "connect",
+	state : {
+		name : String,
+		character : int,
+		position: { 
+			x : float,
+			y : float
+		}
+	}
+}
+
+ACCEPT
+length + {
+	type : "accept",
+	state : [{
+			name : String,
+			character : int,
+			position: { 
+				x : float,
+				y : float
+			}
+		}, {
+			name : String,
+			character : int,
+			position: { 
+				x : float,
+				y : float
+			}
+		},
+		...
+	]
+}
+
+REJECT
+length + {
+type : "reject",
+state : "already connected"
+}
+
+DISCONNECT
+length + {
+type : "disconnect",
+state : {
+name : String
+}
+}
+
+MOVE
+length + {
+type : "move",
+state : {
+name : String,
+character : int,
+direction : int,
+position: { 
+x : float,
+y : float
+}
+}
+}

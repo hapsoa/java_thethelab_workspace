@@ -1,0 +1,3 @@
+WordList를 서버에서 각 List<SocketConnector>에 2초마다 한번씩 보낸다.
+
+서버에서 보낸 Delete:live를 클라이언트에서 두번 동시에 읽어들인다. 준 거를 통째로 읽어 들이는 법이 없을까?
